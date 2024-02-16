@@ -3,7 +3,6 @@
   "description": "Owls",
   "version": "1.0.0",
   "private": true,
-  "author": "0xk3k",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
